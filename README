@@ -1,3 +1,10 @@
+本项目源码clone于 git://g.csail.mit.edu/xv6-labs-2020,然后切换到util分支，在编译过程中在sh.c中出现报错，修复报错后成功运行
+此后，master主分支将不再改动
+所有labs都将新建labX分支，在每个分支中实现lab
+
+
+
+
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
